@@ -21,7 +21,7 @@ House the high-level description of the presentation.
 
     #### [Interactive Strategies] Show of hands for all of these topics
     Does everyones remmeber 
-        - 3-d Vectors
+        - Vectors vs. scalar
         - Dot product
         - Determinant of a 2x2 matrix
         - derivatives of a function (single var.)
@@ -80,6 +80,11 @@ maybe elliptical if time e field
 
 #### EFFECTIVE TRANSITION TO WONRSKIAN
 
+Vectors are lin. Ind. from dot product.’
+
+WHat about solution sets to diff. Eqs. how do we know these are lin. ind.
+
+Transition to diff eqs.
 
 
 
