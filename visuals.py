@@ -15,8 +15,9 @@ subplot1.set_xlim([0, 5])
 subplot1.set_ylim([0, 5])
 subplot1.set_zlim([0, 5])
 
-plt.xlabel("x")
-plt.ylabel("y")
-# plt.zlabel("z")
-plt.title("Vector Output")
+subplot1.set_xlabel("x")
+subplot1.set_ylabel("y")
+subplot1.set_zlabel("z")
+subplot1.set_title("Vector Output")
+
 plt.show()
